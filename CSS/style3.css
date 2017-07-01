@@ -1,0 +1,24 @@
+.div1 {
+
+color: white;
+background: red;
+width: 100px;
+height: 70px;
+margin-bottom: 30px;
+
+}
+
+.div2 {
+background: orange;
+width: 200px;
+height: 70px;
+margin-bottom: 30px
+
+}
+
+.div3 {
+background: blue;
+width: 400px;
+height: 70px;
+margin-bottom: 30px;
+}
